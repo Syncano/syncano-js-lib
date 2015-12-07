@@ -3,6 +3,10 @@
   "version": "0.4.1",
   "description": "A library to intereact with the Syncano API.",
   "homepage": "https://github.com/Syncano/syncano-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Syncano/syncano-js.git"
+  },
   "authors": [
     "Kelly Andrews <kelly@kellyjandrews.com>"
   ],
